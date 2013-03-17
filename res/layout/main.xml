@@ -29,5 +29,10 @@
             android:layout_height="wrap_content"
             android:text="Connect"
             android:id="@+id/Inet" android:layout_gravity="left|center_vertical"/>
+    <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Load"
+            android:id="@+id/load" android:layout_gravity="left|center_vertical"/>
 </LinearLayout>
 
